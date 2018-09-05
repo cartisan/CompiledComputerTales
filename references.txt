@@ -1,0 +1,21 @@
+system name | source of story
+
+simlextric  |   Riegl, S., & Veale, T. (2018). Live, Die, Evaluate, Repeat: Do-Over Simulation in the Generation of Coherent Episodic Stories. In Proceedings of the Ninth International Conference on Computational Creativity. Salamanca, Spain: Association for Computational Creativity.    |   Generated on: http://afflatus.ucd.ie/simlextric/
+
+MEXICA  |   Pérez y Pérez, R. (2007). Employing emotions to drive plot generation in a computer-based storyteller. Cognitive Systems Research, 8(2), 89–109.
+
+STellA  |   León, C., & Gervás, P. (2014). Creativity in Story Generation From the Ground Up: Non-deterministic Simulation driven by Narrative. In Proceedings of the Fifth International Conference on Computational Creativity. Ljubljana, Slovenia
+
+KIIDS   |   Peinado, F., & Gervás, P. (2006). Evaluation of automatic generation of basic stories. New Generation Computing, 24(3), 289–302.
+
+Talespin    |   Gervás, P. (2009). Computational approaches to storytelling and creativity. AI Magazine, 30(3), 49–62.
+
+Novel Writer    |   Gervás, P. (2009). Computational approaches to storytelling and creativity. AI Magazine, 30(3), 49–62.
+
+Universe    |   Ryan, M.-L. (1991). Possible Worlds, Artificial Intelligence, and Narrative Theory. Bloomington & Indianapolis: Indiana University Press.
+
+Minstrel    |   Pérez y Pérez, R., & Sharples, M. (2004). Three computer-based models of storytelling: BRUTUS, MINSTREL and MEXICA. Knowledge-based systems, 17(1), 15–29.
+
+
+
+
